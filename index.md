@@ -1,5 +1,5 @@
 ---
 date: 2025-
-title:
+title: 
 categories: ["LeetCode"]
 ---
